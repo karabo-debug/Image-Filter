@@ -1,0 +1,299 @@
+commit f94772395e40e8126d00e68cb404a1504ff46302
+Author: Lehlohonolo Mosikili <karabolehlohonolo242@gmail.com>
+Date:   Sat Mar 23 18:19:33 2024 +0200
+
+    Add a separate rule to run the test cases separately
+
+commit b29ccbe6da172cd3261736195643a722c1df79f6
+Author: Lehlohonolo Mosikili <karabolehlohonolo242@gmail.com>
+Date:   Sat Mar 23 18:18:41 2024 +0200
+
+    Use the student number  namespace in the PGMimageProcessor class
+
+commit a28f4950a6eef8c9f5d30e3d141f39029327e182
+Author: Lehlohonolo Mosikili <karabolehlohonolo242@gmail.com>
+Date:   Sat Mar 23 18:15:58 2024 +0200
+
+    Use the Big 6 to test the methods
+
+commit a1cde78c08402c19321c08af9828beb337c2be5f
+Author: Lehlohonolo Mosikili <karabolehlohonolo242@gmail.com>
+Date:   Sat Mar 23 16:00:54 2024 +0200
+
+    Add a separate rule in the Makefile to run the test file
+
+commit 56bdd8df5059bd3dcde9a5ebbf7a0cb6e2e903e7
+Author: Lehlohonolo Mosikili <karabolehlohonolo242@gmail.com>
+Date:   Sat Mar 23 15:57:04 2024 +0200
+
+    Add the test case for the extract method
+
+commit 85f0d8122392d32410bf966218bc885ba9426f55
+Author: Lehlohonolo Mosikili <karabolehlohonolo242@gmail.com>
+Date:   Sat Mar 23 12:32:06 2024 +0200
+
+    Add the #define CATCH_CONFIG_MAIN identifier in the test file
+
+commit 5c7a048c7f09fa414534d3536c662c384c58b5ee
+Author: Lehlohonolo Mosikili <karabolehlohonolo242@gmail.com>
+Date:   Sat Mar 23 11:44:58 2024 +0200
+
+    Add the test file and catch.hpp to repo
+
+commit eaf3571c9bbe68317a266821a75ca8c2faa0286c
+Author: Lehlohonolo Mosikili <karabolehlohonolo242@gmail.com>
+Date:   Sat Mar 23 11:43:23 2024 +0200
+
+    Add the programs in MSKLEH001 namespace
+
+commit e188e8451ded11f07028138ae3d070776c5816cf
+Author: Lehlohonolo Mosikili <karabolehlohonolo242@gmail.com>
+Date:   Sat Mar 23 10:50:53 2024 +0200
+
+    Add a default constructor
+
+commit 8d9fa17ebd0cbd0107d080206451de4f4dfc69e1
+Author: Lehlohonolo Mosikili <karabolehlohonolo242@gmail.com>
+Date:   Sat Mar 23 01:44:20 2024 +0200
+
+    Remove debugging statements
+
+commit a4c07b832873cfc3269c3d241f62c604b1328b40
+Author: Lehlohonolo Mosikili <karabolehlohonolo242@gmail.com>
+Date:   Sun Mar 17 20:16:55 2024 +0200
+
+    Add print statements to debug the writeComponents() method
+
+commit d74216c19ecdace1643e8a7259d4f5ab53ac960b
+Author: Lehlohonolo Mosikili <karabolehlohonolo242@gmail.com>
+Date:   Sun Mar 17 18:38:05 2024 +0200
+
+    Add print statements to debug the filterComponentsBySize() method
+
+commit 4c04eb3e61a36a130db7125344c2d5598cff24bb
+Author: Lehlohonolo Mosikili <karabolehlohonolo242@gmail.com>
+Date:   Sun Mar 17 18:19:49 2024 +0200
+
+    Define a lambda function to process the connected component
+
+commit 80887848bca76616f3d0deec85c495e91b164894
+Author: Lehlohonolo Mosikili <karabolehlohonolo242@gmail.com>
+Date:   Sun Mar 17 17:41:36 2024 +0200
+
+    Add print statements to debug the extractComponents() method
+
+commit 322cb8ed3b186b089ce3984cb8e456f8883fbefc
+Author: Lehlohonolo Mosikili <karabolehlohonolo242@gmail.com>
+Date:   Sun Mar 17 17:37:24 2024 +0200
+
+    Use the new identifier to allocate memory ofr image data
+
+commit 289f305b1f6a4a5fc0c0764d9cc1d233cb880bdb
+Author: Lehlohonolo Mosikili <karabolehlohonolo242@gmail.com>
+Date:   Sun Mar 17 17:30:31 2024 +0200
+
+    Make use of a smart pointer to writeComponents()
+
+commit 32313c512fcd9520688fc8c046fca33953298131
+Author: Lehlohonolo Mosikili <karabolehlohonolo242@gmail.com>
+Date:   Sun Mar 17 17:27:00 2024 +0200
+
+    Use a smart to allocate memory
+
+commit 8eb412a387bcd7c2c67c3a7d8ef1fb846df75bf6
+Author: Lehlohonolo Mosikili <karabolehlohonolo242@gmail.com>
+Date:   Sun Mar 17 17:14:25 2024 +0200
+
+    Print the image height and width in the readPGMFile() function for debugging
+
+commit bd29086d65c7e3ab90db667f600bc44fedcc3261
+Author: Lehlohonolo Mosikili <karabolehlohonolo242@gmail.com>
+Date:   Sun Mar 17 17:03:00 2024 +0200
+
+    Add an implementation to read and discard comment lines
+
+commit 9d427590e502c501a310ae309003f47c9ae99546
+Author: Lehlohonolo Mosikili <karabolehlohonolo242@gmail.com>
+Date:   Sun Mar 17 16:44:31 2024 +0200
+
+    Add print statements to debug the readPGMFile() function
+
+commit df9de9f84776aab34f0a86c86e597212f642ba00
+Author: Lehlohonolo Mosikili <karabolehlohonolo242@gmail.com>
+Date:   Sun Mar 17 14:21:38 2024 +0200
+
+    Add an option to print component data
+
+commit 290ce7985b2169f2d4037d72b917dff12629a0b2
+Author: Lehlohonolo Mosikili <karabolehlohonolo242@gmail.com>
+Date:   Sun Mar 17 14:18:25 2024 +0200
+
+    Include ConnectedComponent.
+
+commit 690f4ce1478dad69d4cee8c327d8e18f8067d1bf
+Author: Lehlohonolo Mosikili <karabolehlohonolo242@gmail.com>
+Date:   Fri Mar 15 22:27:18 2024 +0200
+
+    Add ConnectedComponent.h header in the main program
+
+commit 2af7f4fb43c0073f62eb9be89cd1c2d7f80c1749
+Author: Lehlohonolo Mosikili <karabolehlohonolo242@gmail.com>
+Date:   Fri Mar 15 22:26:02 2024 +0200
+
+    Add ConnectedComponent.h header file in directives
+
+commit 730472d3d93c19a40c2884f4931c812ee3e414e5
+Author: Lehlohonolo Mosikili <karabolehlohonolo242@gmail.com>
+Date:   Fri Mar 15 22:10:21 2024 +0200
+
+    Iterate over components and print their data
+
+commit c38c50821774ef59c769276faeabc7c7b939c4e6
+Author: Lehlohonolo Mosikili <karabolehlohonolo242@gmail.com>
+Date:   Fri Mar 15 21:56:11 2024 +0200
+
+    Add getComponentCount() method to return components size
+
+commit b4bee007d97a94ade17a4eac680687e950cc5034
+Author: Lehlohonolo Mosikili <karabolehlohonolo242@gmail.com>
+Date:   Fri Mar 15 21:38:26 2024 +0200
+
+    Implement a method to print component data
+
+commit 4503d33fdcbe4b5b6616a715d46c225d9beacb06
+Author: Lehlohonolo Mosikili <karabolehlohonolo242@gmail.com>
+Date:   Fri Mar 15 21:27:45 2024 +0200
+
+    Implement the get methods to return the smallest and largest size
+
+commit 21f4bd87f8fef7b04423e950f199a8c625ad7dc1
+Author: Lehlohonolo Mosikili <karabolehlohonolo242@gmail.com>
+Date:   Fri Mar 15 20:59:54 2024 +0200
+
+    Implement a method to read the PGM file
+
+commit 9e23f1e0ac6f6274ff302530af50354c50d785f9
+Author: Lehlohonolo Mosikili <karabolehlohonolo242@gmail.com>
+Date:   Fri Mar 15 20:35:52 2024 +0200
+
+    Return components size
+
+commit 9a8bd3e69409c2a15cc163558d51573f7fc3c088
+Author: Lehlohonolo Mosikili <karabolehlohonolo242@gmail.com>
+Date:   Fri Mar 15 20:34:33 2024 +0200
+
+    Check if the component meets the minimum size requirement
+
+commit 0a8b3a395cdb36ef21fa6243dfabd7cee33384c2
+Author: Lehlohonolo Mosikili <karabolehlohonolo242@gmail.com>
+Date:   Fri Mar 15 20:29:30 2024 +0200
+
+    Check the 4-connected neighbors (N/S/E/W)
+
+commit 2a55d9bbfc9d4edd7054209bea6546ac23866ab7
+Author: Lehlohonolo Mosikili <karabolehlohonolo242@gmail.com>
+Date:   Fri Mar 15 20:27:50 2024 +0200
+
+    Using a while loop perform a BFS
+
+commit cc3a2ea11d44c685866ed1800369e11125c66b36
+Author: Lehlohonolo Mosikili <karabolehlohonolo242@gmail.com>
+Date:   Fri Mar 15 20:24:44 2024 +0200
+
+    Check if pixel is foreground and has not yet been visited
+
+commit b70ed544d6c3b0337082b4a1ec463a6acaa1b548
+Author: Lehlohonolo Mosikili <karabolehlohonolo242@gmail.com>
+Date:   Fri Mar 15 20:06:07 2024 +0200
+
+    Iterate through each pixel using a nested loop
+
+commit 4871c182b114c5d88706bdaad1a8000785ff073e
+Author: Lehlohonolo Mosikili <karabolehlohonolo242@gmail.com>
+Date:   Fri Mar 15 19:48:20 2024 +0200
+
+    Declare variables image, imageHeight and imageWidth
+
+commit fdb2f049a344f31b7b9f3ff88619655a04826082
+Author: Lehlohonolo Mosikili <karabolehlohonolo242@gmail.com>
+Date:   Fri Mar 15 19:22:30 2024 +0200
+
+    Write component pixels to the output file
+
+commit 4b87e47e9849253ff01d518bbdf08f20571ca4a6
+Author: Lehlohonolo Mosikili <karabolehlohonolo242@gmail.com>
+Date:   Fri Mar 15 17:02:40 2024 +0200
+
+    Erase the removed components from the container
+
+commit 0e798e86bcfe74a863a34a5523e54d9f7ff1549d
+Author: Lehlohonolo Mosikili <karabolehlohonolo242@gmail.com>
+Date:   Fri Mar 15 17:00:48 2024 +0200
+
+    Calculate the number of components remaining after filtering
+
+commit 9b13fdb7036723bb288e77cdc3d24d8f490632b5
+Author: Lehlohonolo Mosikili <karabolehlohonolo242@gmail.com>
+Date:   Fri Mar 15 16:44:28 2024 +0200
+
+    Use the modifying function remove_if() to remove components that do not meet the size criteria
+
+commit fcd2bd1bbe30e670301e5cbb5c296b8f5228ad7a
+Author: Lehlohonolo Mosikili <karabolehlohonolo242@gmail.com>
+Date:   Fri Mar 15 16:23:37 2024 +0200
+
+    Define a lambda function to filter components based on the size criteria
+
+commit 343c460f0bedc7e0d576334fbfad32cca467851a
+Author: Lehlohonolo Mosikili <karabolehlohonolo242@gmail.com>
+Date:   Fri Mar 15 15:35:15 2024 +0200
+
+    Implement the BIG 6 in the PGMImageProcessor class
+
+commit 1b2f0ee117a988d7b5788b36015d28705f673b3b
+Author: Lehlohonolo Mosikili <karabolehlohonolo242@gmail.com>
+Date:   Fri Mar 15 09:37:45 2024 +0200
+
+    Declare a private member to stored the connected components
+
+commit 77877d322258976b4b4e57b06a9fe2c37dcde19c
+Author: Lehlohonolo Mosikili <karabolehlohonolo242@gmail.com>
+Date:   Fri Mar 15 09:06:40 2024 +0200
+
+    Declare the printComponentData using the ComponentData class
+
+commit fe01c091e6e154f0026839f7171d1a5e72658474
+Author: Lehlohonolo Mosikili <karabolehlohonolo242@gmail.com>
+Date:   Fri Mar 15 09:00:23 2024 +0200
+
+    Declare methods extractComponents(), filterComponentsBySize() and writeComponents() in the PGMimageProcessor header file
+
+commit 840ab3a837c8519a28bb494f94f7ee78e683b327
+Author: Lehlohonolo Mosikili <karabolehlohonolo242@gmail.com>
+Date:   Fri Mar 15 08:52:38 2024 +0200
+
+    Declare the BIG 6 in the header file
+
+commit 7c56a6e78606e46d6f89db9c1536ee65dc91aff6
+Author: Lehlohonolo Mosikili <karabolehlohonolo242@gmail.com>
+Date:   Fri Mar 15 08:22:13 2024 +0200
+
+    Implement the getter methods to access the ConnectedComponenent private members
+
+commit 3d08ed89a2df2156d295b28d4a3e6e0296b802a2
+Author: Lehlohonolo Mosikili <karabolehlohonolo242@gmail.com>
+Date:   Fri Mar 15 08:17:00 2024 +0200
+
+    Implement the addPixel() method to add pixel coordinates to the component
+
+commit 8e05305bb2d70d983884f187caca110f417a32a8
+Author: Lehlohonolo Mosikili <karabolehlohonolo242@gmail.com>
+Date:   Fri Mar 15 08:09:48 2024 +0200
+
+    Implement the BIG 6 for ConnectedComponents
+
+commit ee4a9a831cf8082a7d80ea04165494b6b908d2ab
+Author: Lehlohonolo Mosikili <karabolehlohonolo242@gmail.com>
+Date:   Fri Mar 15 07:59:27 2024 +0200
+
+    Create a header file for connected components use the  Big 6 and include private members
